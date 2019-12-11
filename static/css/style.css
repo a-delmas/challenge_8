@@ -1,6 +1,12 @@
 header {
-  background-color: #ef7a97; }
+  background-image: url("../img/hero_bg_2.jpg");
+  height: 100vh; }
   header li:hover {
     border-bottom: solid 2px white; }
+
+main .product {
+  background-color: #ef7a97; }
+  main .product .img {
+    height: 26vh; }
 
 /*# sourceMappingURL=style.css.map */
